@@ -1,2 +1,2 @@
-# agiachris.github.io
-Visit academic site at [https://agiachris.github.io/](https://agiachris.github.io/)
+
+Forked from agiachris.github.io. Special thanks to Chris Agia and also to Jon Barron (original repo)
